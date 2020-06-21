@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Deze app is een Pokédex lijst met alle eerste generatie pokemons met hun indexnummer, een afbeelding en hun naam.</string>
+    <string name="pokemon_list">Pokémon lijst</string>
+    <string name="maps">Waar ben ik?</string>
+    <string name="changeLang">Verander taal</string>
+    <string name="exit">Afsluiten</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Pokemon Dex'
+include ':app'

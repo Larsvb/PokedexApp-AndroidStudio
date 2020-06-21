@@ -1,0 +1,7 @@
+<resources>
+    <string name="description">This app is a Pokédex list of all first generation pokemons with their index number, an image and their name.</string>
+    <string name="pokemon_list">Pokémon List</string>
+    <string name="maps">Where am I?</string>
+    <string name="changeLang">Change language</string>
+    <string name="exit">Exit</string>
+</resources>

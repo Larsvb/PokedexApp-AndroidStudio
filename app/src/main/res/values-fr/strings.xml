@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Cette application est une liste Pokédex de tous les pokémons de première génération avec leur numéro d\'index, une image et leur nom.</string>
+    <string name="pokemon_list">Liste Pokémon</string>
+    <string name="maps">Où suis-je?</string>
+    <string name="changeLang">Changer de langue</string>
+    <string name="exit">Sortie</string>
+</resources>
